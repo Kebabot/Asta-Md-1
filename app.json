@@ -1,5 +1,5 @@
 {
-  "name": "Asta-Md WHATSAPP BOT BY Astro",
+  "name": "Kiba-Md WHATSAPP BOT BY Kiba",
   "description": "A Whatsapp Bot",
   "logo": "",
   "keywords": ["nodejs", "bot", "whatsapp bot"],
@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "Bot Owner",
-      "value": "Astro"
+      "value": "Kiba"
   },
  "HEROKU_API_KEY": {
     "description": "Your Heroku Api Key",
@@ -25,7 +25,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-           "value": "2348039607375"
+           "value": "918798879524"
       },
        "SESSION_ID": {
         "description": "SESSION_ID."
@@ -105,12 +105,12 @@
 },
 "MZTIT": {
   "description": "Add Your Title",
-   "value": "Asta-Md"
+   "value": "Kiba-Md"
     
 },
 "GNAME": {
   "description": "Add Your Group Name Here.You Can See in Most Commands",
-   "value": "Asta-Md-sᴜᴘᴘᴏʀᴛ",
+   "value": "Kiba-Md-sᴜᴘᴘᴏʀᴛ",
     "required": false
 },
 "WAURL": {
@@ -120,7 +120,7 @@
 },
 "BOT_NAME": {
   "description": "Add Your Own Bot Name",
-   "value": "Asta-Md"
+   "value": "Kiba-Md"
     
 },
 "REMOVE_BG_KEY": {
