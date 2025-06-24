@@ -1,7 +1,7 @@
 {
-          "name": "Asta-Md",
+          "name": "kiba-Md",
           "version": "4.5.0",
-          "description": "Asta-Md A Whatsapp Bot By Astro",
+          "description": "kiba-Md A Whatsapp Bot By kiba",
           "main": "lib/client.js",
           "type": "commonjs",
           "license": "GPL-3.0",
@@ -9,7 +9,7 @@
                     "start": "pm2 start lib/client.js --deep-monitoring --attach --name Asta-Md",
                     "stop": "pm2 stop Asta-Md"
           },
-          "author": "Astro",
+          "author": "Kiba",
           "dependencies": {
                     "@adiwajshing/keyed-db": "^0.2.4",
                     "@bochilteam/scraper": "latest",
@@ -74,10 +74,10 @@
           },
           "repository": {
                     "type": "git",
-                    "url": "git+https://github.com/Astropeda/Asta-Md.git"
+                    "url": "git+https://github.com/Kebabot/Asta-Md.git"
           },
           "bugs": {
-                    "url": "https://github.com/Astropeda/Asta-Md/issues"
+                    "url": "https://github.com/Kebabot/Asta-Md/issues"
           },
-          "homepage": "https://github.com/Astropeda/Asta-Md#readme"
+          "homepage": "https://github.com/Kebabot/Asta-Md#readme"
 }
