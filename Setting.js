@@ -48,9 +48,9 @@ module.exports = {
   promote_demote_messages : process.env.PROMOTE_DEMOTE_MESSAGES || 'true' ,
   OPENAI_API_KEY: process.env.OPENAI_API_KEY ||'' ,
   VERSION: process.env.VERSION || 'V.4.5.0',
-  LANG: process.env.THEME|| 'Asta_Md',
+  LANG: process.env.THEME|| 'Kiba_Md',
   menu : process.env.MENU || '',
-  WORKTYPE: process.env.WORKTYPE || 'private'
+  WORKTYPE: process.env.WORKTYPE || 'public'
 };
 
 
